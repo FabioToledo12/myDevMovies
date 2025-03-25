@@ -113,8 +113,6 @@ Para clonar e executar este aplicativo, você precisará de Git e Node.js (que v
 ## Clone este repositório
 
 ```bash
-$ git clone <https://github.com/victorSmenezes/Dev-Movies.git>
-
 # Acesse a pasta do projeto
 $ cd # nome da pasta
 
